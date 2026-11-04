@@ -1,4 +1,4 @@
 [submodule "projectm-sys/libprojectM"]
 	path = projectm-sys/libprojectM
 	url = https://github.com/Errantial/projectm.git
-	branch = wp7-shader-cache
+	branch = wp8-stutter-fixes
